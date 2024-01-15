@@ -1,0 +1,11 @@
+---
+title: "tut2"
+format: pdf
+editor: visual
+---
+
+```{r}
+library(gitcreds)
+library(usethis)
+
+```
